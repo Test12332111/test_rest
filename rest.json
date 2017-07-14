@@ -2,7 +2,7 @@
   {
     "id": "1",
     "background_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Novotel_Darling_Harbour%2C_Sydney_%283366616646%29.jpg/800px-Novotel_Darling_Harbour%2C_Sydney_%283366616646%29.jpg",
-    "icon": "https://thumb7.shutterstock.com/display_pic_with_logo/1018652/476160001/stock-vector-sydney-harbour-bridge-icon-476160001.jpg",
+    "icon": "http://www.iconsdb.com/icons/preview/green/map-marker-2-xxl.png",
     "lan": 151.0,
     "lat": -34.0,
     "name": "Sydney",
@@ -23,7 +23,7 @@
 {
     "id": "2",
     "background_image": "http://www.ebrd.com/image/1395237810330.jpg",
-    "icon": "https://thumb7.shutterstock.com/display_pic_with_logo/1018652/476160001/stock-vector-sydney-harbour-bridge-icon-476160001.jpg",
+    "icon": "https://cdn2.iconfinder.com/data/icons/perfect-flat-icons-2/512/Location_marker_pin_map_gps.png",
     "lan": -73.989308,
     "lat": 40.741895,
     "name": "New York, NY, USA",
@@ -55,7 +55,7 @@
 {
     "id": "3",
     "background_image": "https://cdn.pixabay.com/photo/2017/04/06/20/36/christ-2209290_960_720.jpg",
-    "icon": "https://thumb7.shutterstock.com/display_pic_with_logo/1018652/476160001/stock-vector-sydney-harbour-bridge-icon-476160001.jpg",
+    "icon": "https://s-media-cache-ak0.pinimg.com/originals/61/9d/13/619d13147cd5de7c813be306b9d87981.png",
     "lan": -49.12742614746094,
     "lat": -5.389070137535628,
     "name": "Tv. Planalto, 14 - Liberdade, Marabá - PA, Brazil",
